@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\bin",
+    "\\bin\\Release",
+    "\\bin\\Release\\net8.0",
+    "\\github",
+    "\\github\\workflows",
+    "\\obj",
+    "\\obj\\Debug"
+  ],
+  "PreviewInSolutionExplorer": false
+}

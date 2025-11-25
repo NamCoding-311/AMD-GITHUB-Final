@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\urlshorten",
+    "\\urlshorten\\BE"
+  ],
+  "SelectedNode": "\\urlshorten\\BE\\URLShortener.API.csproj",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,303 @@
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\appsettings.Development.json
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\appsettings.json
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\URLShortener.API.staticwebassets.endpoints.json
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\URLShortener.API.exe
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\URLShortener.API.deps.json
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\URLShortener.API.runtimeconfig.json
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\URLShortener.API.dll
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\URLShortener.API.pdb
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShortener.API.csproj.AssemblyReference.cache
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShortener.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShortener.API.AssemblyInfoInputs.cache
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShortener.API.AssemblyInfo.cs
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShortener.API.csproj.CoreCompileInputs.cache
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cs
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cache
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\scopedcss\bundle\URLShortener.API.styles.css
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShort.566DDFA2.Up2Date
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShortener.API.dll
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\refint\URLShortener.API.dll
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShortener.API.pdb
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShortener.API.genruntimeconfig.cache
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\ref\URLShortener.API.dll
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\DnsClient.dll
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\SharpCompress.dll
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\Snappier.dll
+C:\backendd\URLShortener.API\URLShortener.API\bin\Debug\net8.0\ZstdSharp.dll
+C:\backendd\URLShortener.API\URLShortener.API\obj\Debug\net8.0\URLShortener.API.sourcelink.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\appsettings.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\URLShortener.API.staticwebassets.endpoints.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\URLShortener.API.exe
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\URLShortener.API.deps.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\URLShortener.API.runtimeconfig.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\URLShortener.API.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\URLShortener.API.pdb
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\DnsClient.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\SharpCompress.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\Snappier.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\bin\Debug\net8.0\ZstdSharp.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShortener.API.csproj.AssemblyReference.cache
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShortener.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShortener.API.AssemblyInfoInputs.cache
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShortener.API.AssemblyInfo.cs
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShortener.API.csproj.CoreCompileInputs.cache
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShortener.API.sourcelink.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\scopedcss\bundle\URLShortener.API.styles.css
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\swae.build.ex.cache
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShort.566DDFA2.Up2Date
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShortener.API.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\refint\URLShortener.API.dll
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShortener.API.pdb
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\URLShortener.API.genruntimeconfig.cache
+E:\Greenwich\AMD 201 course work\AMD\URLShortener.API\obj\Debug\net8.0\ref\URLShortener.API.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShortener.API.csproj.AssemblyReference.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShortener.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShortener.API.AssemblyInfoInputs.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShortener.API.AssemblyInfo.cs
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShortener.API.csproj.CoreCompileInputs.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShortener.API.sourcelink.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShortener.API.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\refint\URLShortener.API.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShortener.API.pdb
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\appsettings.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\URLShortener.API.staticwebassets.endpoints.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\URLShortener.API.exe
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\URLShortener.API.deps.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\URLShortener.API.runtimeconfig.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\URLShortener.API.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\URLShortener.API.pdb
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\DnsClient.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\Snappier.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\scopedcss\bundle\URLShortener.API.styles.css
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShort.566DDFA2.Up2Date
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\URLShortener.API.genruntimeconfig.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_fixed\URLShortener.API\obj\Debug\net8.0\ref\URLShortener.API.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Services\appsettings.Development.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.exe
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.deps.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.runtimeconfig.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.pdb
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Snappier.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.sourcelink.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\scopedcss\bundle\URLShortener.API.styles.css
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShort.566DDFA2.Up2Date
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\refint\URLShortener.API.dll
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.pdb
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.genruntimeconfig.cache
+C:\Users\Admin\Desktop\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\ref\URLShortener.API.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\appsettings.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Services\appsettings.Development.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.staticwebassets.endpoints.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.exe
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.deps.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.runtimeconfig.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.pdb
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\DnsClient.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Snappier.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.csproj.AssemblyReference.cache
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.AssemblyInfoInputs.cache
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.AssemblyInfo.cs
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.csproj.CoreCompileInputs.cache
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.sourcelink.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\scopedcss\bundle\URLShortener.API.styles.css
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShort.566DDFA2.Up2Date
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\refint\URLShortener.API.dll
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.pdb
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.genruntimeconfig.cache
+C:\Users\nramf\OneDrive\Máy tính\FINAL AMD test\FINAL AMD\AMD_final\AMD_final\urlshorten\BE\obj\Debug\net8.0\ref\URLShortener.API.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Services\appsettings.Development.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.exe
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.deps.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.runtimeconfig.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.pdb
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Snappier.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.AssemblyInfo.cs
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.sourcelink.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\scopedcss\bundle\URLShortener.API.styles.css
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShort.566DDFA2.Up2Date
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\refint\URLShortener.API.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.pdb
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.genruntimeconfig.cache
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\ref\URLShortener.API.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\appsettings.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Services\appsettings.Development.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.staticwebassets.endpoints.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.exe
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.deps.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.runtimeconfig.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\URLShortener.API.pdb
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\DnsClient.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Snappier.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.csproj.AssemblyReference.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.AssemblyInfoInputs.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.AssemblyInfo.cs
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.csproj.CoreCompileInputs.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.sourcelink.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\scopedcss\bundle\URLShortener.API.styles.css
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShort.566DDFA2.Up2Date
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\refint\URLShortener.API.dll
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.pdb
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\URLShortener.API.genruntimeconfig.cache
+C:\Users\nramf\OneDrive\Máy tính\AMD_con moi login\AMD_con moi login\AMD_final\urlshorten\BE\obj\Debug\net8.0\ref\URLShortener.API.dll
