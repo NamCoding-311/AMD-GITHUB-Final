@@ -6,11 +6,10 @@ on:
       - main
 
 jobs:
-  build-test-deploy:
+  build-and-push:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Code
+      - name: Checkout source
         uses: actions/checkout@v3
 
       - name: Setup .NET
@@ -18,31 +17,45 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
-      - name: Build Backend
-        run: dotnet build AMD_final/urlshorten/BE/URLShortener.API.csproj --configuration Release
+      # --- RESTORE ---
+      - name: Restore backend dependencies
+        working-directory: ./urlshorten/BE
+        run: dotnet restore
 
-      - name: Run Tests
-        run: dotnet test AMD_final/urlshorten/BE/URLShortener.API.csproj --no-build
+      # --- BUILD .NET backend ---
+      - name: Build backend
+        working-directory: ./urlshorten/BE
+        run: dotnet build --configuration Release --no-restore
 
-      # BUILD DOCKER IMAGE (DÙNG BUILDX CHUẨN)
+      # --- Publish to folder so Docker can copy publish output (optional) ---
+      - name: Publish backend (for docker context)
+        working-directory: ./urlshorten/BE
+        run: dotnet publish -c Release -o ./publish
+
+      # --- Build docker image ---
+      # Use Dockerfile located in urlshorten/BE, and use that folder as build context
       - name: Build Docker Image
         run: |
-          echo "Building Docker Image..."
-          echo "Username = ${{ secrets.DOCKER_USER }}"
-          docker buildx create --use
-          docker buildx build \
-            -t ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }} \
-            --load \
-            AMD_final/urlshorten/BE
+          IMAGE_NAME=${{ secrets.DOCKER_USER }}/urlshortener-api:${{ github.sha }}
+          echo "Building image $IMAGE_NAME"
+          docker build -f urlshorten/BE/Dockerfile -t $IMAGE_NAME urlshorten/BE
 
-      - name: Login DockerHub
+      # --- Login to Docker Hub ---
+      - name: Login to DockerHub
         uses: docker/login-action@v2
         with:
           username: ${{ secrets.DOCKER_USER }}
           password: ${{ secrets.DOCKER_PASS }}
 
+      # --- Push image ---
       - name: Push Docker Image
-        run: docker push ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }}
+        run: |
+          IMAGE_NAME=${{ secrets.DOCKER_USER }}/urlshortener-api:${{ github.sha }}
+          docker push $IMAGE_NAME
 
-      - name: Deploy to Render
-        run: curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
+      # --- (Optional) Trigger Render deploy hook ---
+      - name: Deploy to Render (optional)
+        if: ${{ secrets.RENDER_DEPLOY_HOOK != '' }}
+        run: |
+          echo "Triggering render deploy hook"
+          curl -X POST "${{ secrets.RENDER_DEPLOY_HOOK }}
