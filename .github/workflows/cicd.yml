@@ -18,39 +18,31 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
-      # Build Backend
       - name: Build Backend
         run: dotnet build AMD_final/urlshorten/BE/URLShortener.API.csproj --configuration Release
 
-      # Test Backend
       - name: Run Tests
         run: dotnet test AMD_final/urlshorten/BE/URLShortener.API.csproj --no-build
 
-      # Setup Docker Buildx
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2
-
-      # Build Docker image using buildx
+      # BUILD DOCKER IMAGE (DÙNG BUILDX CHUẨN)
       - name: Build Docker Image
         run: |
-          echo "Building Docker image..."
+          echo "Building Docker Image..."
           echo "Username = ${{ secrets.DOCKER_USER }}"
+          docker buildx create --use
           docker buildx build \
-            --tag ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }} \
+            -t ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }} \
             --load \
             AMD_final/urlshorten/BE
 
-      # Login DockerHub
-      - name: Login to DockerHub
+      - name: Login DockerHub
         uses: docker/login-action@v2
         with:
           username: ${{ secrets.DOCKER_USER }}
           password: ${{ secrets.DOCKER_PASS }}
 
-      # Push Docker Image
       - name: Push Docker Image
         run: docker push ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }}
 
-      # Deploy Render
       - name: Deploy to Render
         run: curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
