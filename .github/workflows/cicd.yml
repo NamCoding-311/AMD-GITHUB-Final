@@ -43,6 +43,3 @@ jobs:
 
       - name: Push Docker Image
         run: docker push ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }}
-
-      - name: Deploy to Render
-        run: curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
