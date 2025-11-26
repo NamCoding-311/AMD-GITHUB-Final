@@ -29,12 +29,12 @@ jobs:
         run: |
           echo "Building Docker Image..."
           docker buildx create --use
-
+      
           docker buildx build \
             --platform linux/amd64 \
             -t ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }} \
-            ./AMD_final/urlshorten/BE \
-            --push
+            --push \
+            ./AMD_final/urlshorten/BE
 
       - name: Login DockerHub
         uses: docker/login-action@v2
@@ -44,6 +44,4 @@ jobs:
 
       - name: Push Docker Image
         run: docker push ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }}
-
-      - name: Deploy to Render
-        run: curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
+-- push
