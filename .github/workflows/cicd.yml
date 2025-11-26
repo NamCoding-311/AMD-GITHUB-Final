@@ -18,18 +18,6 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
-      # DEBUG: Kiểm tra toàn bộ cấu trúc repo
-      - name: Debug Folder Structure
-        run: |
-          echo "=== ROOT FOLDER ==="
-          ls -R .
-          echo "=== AMD_final FOLDER ==="
-          ls -R AMD_final || true
-          echo "=== urlshorten FOLDER ==="
-          ls -R AMD_final/urlshorten || true
-          echo "=== BE FOLDER ==="
-          ls -R AMD_final/urlshorten/BE || true
-
       # BUILD BACKEND
       - name: Build Backend
         run: dotnet build AMD_final/urlshorten/BE/URLShortener.API.csproj --configuration Release
@@ -38,26 +26,30 @@ jobs:
       - name: Run Tests
         run: dotnet test AMD_final/urlshorten/BE/URLShortener.API.csproj --no-build
 
+      # DEBUG FOLDER
+      - name: Debug BE folder
+        run: |
+          echo "=== LIST BE FOLDER BEFORE BUILD ==="
+          ls -R AMD_final/urlshorten/BE
+
       # BUILD DOCKER IMAGE
       - name: Build Docker Image
         run: |
           echo "Building Docker image..."
           echo "Username = ${{ secrets.DOCKER_USER }}"
-          echo "=== LIST BE FOLDER BEFORE BUILD ==="
-          ls -R AMD_final/urlshorten/BE
           docker build -t ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }} AMD_final/urlshorten/BE
 
-      # LOGIN DOCKER HUB
+      # LOGIN DOCKER HUB — FIXED
       - name: Login to DockerHub
         uses: docker/login-action@v2
         with:
           username: ${{ secrets.DOCKER_USER }}
           password: ${{ secrets.DOCKER_PASS }}
 
-      # PUSH IMAGE
+      # PUSH DOCKER IMAGE
       - name: Push Docker Image
         run: docker push ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }}
 
-      # DEPLOY RENDER
+      # DEPLOY TO RENDER
       - name: Deploy to Render
         run: curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
