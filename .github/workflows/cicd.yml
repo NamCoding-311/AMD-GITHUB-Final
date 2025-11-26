@@ -10,45 +10,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    
+      # 1) Lấy source code từ GitHub
       - name: Checkout Code
         uses: actions/checkout@v3
 
-    
+      # 2) Setup .NET SDK
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '8.0.x'
 
-     
-      - name: Move to Backend Folder
-        run: cd AMD_final/urlshorten/BE
+      # 3) Build Backend
+      - name: Build Backend
+        run: dotnet build urlshorten/BE/URLShortener.API.csproj --configuration Release
 
-     
-      - name: Restore Backend
-        working-directory: ./AMD_final/urlshorten/BE
-        run: dotnet restore URLShortener.API.csproj
+      # 4) Run Tests (nếu không có Unit Test thì vẫn ok)
+      - name: Run Tests
+        run: dotnet test urlshorten/BE/URLShortener.API.csproj --no-build
 
-    
-      - name: Build Project
-        working-directory: ./AMD_final/urlshorten/BE
-        run: dotnet build --configuration Release
-
-     
+      # 5) Build Docker Image (đúng context BE)
       - name: Build Docker Image
-        working-directory: ./AMD_final/urlshorten/BE
-        run: docker build -t ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }} .
+        run: docker build -t ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }} urlshorten/BE
 
-      
+      # 6) Login Docker Hub
       - name: Login to DockerHub
         uses: docker/login-action@v2
         with:
           username: ${{ secrets.DOCKER_USER }}
           password: ${{ secrets.DOCKER_PASS }}
 
+      # 7) Push Docker Image
       - name: Push Docker Image
         run: docker push ${{ secrets.DOCKER_USER }}/urlshortener:${{ github.sha }}
 
-
+      # 8) Deploy to Render using Webhook
       - name: Deploy to Render
         run: curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
+
